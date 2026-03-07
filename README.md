@@ -3,7 +3,7 @@ Public portfolio from day one
 
 # Day 01 — Wireshark: First Live Capture
 **Date:** 7 March 2026  
-**Tool:** Wireshark 4.4.)  
+**Tool:** Wireshark 4.4.  
 **Category:** Network Analysis  
 **ATT&CK Technique:** T1040 — Network Sniffing  
 
