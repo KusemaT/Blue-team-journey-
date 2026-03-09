@@ -84,3 +84,8 @@ HTTP requests show the raw communication between browser and server before encry
 - [ ] Analyse a PCAP from CyberDefenders to see malicious traffic patterns
 - [ ] Learn `tcp.flags.syn == 1` filter for port scan detection
 - [ ] Compare normal DNS to DNS beaconing behaviour
+
+## Week 1 Plan — 7 March 2026
+
+This week I'm setting up my home lab environment (VirtualBox, Kali Linux, Windows 10 VM) and completing my first live Wireshark capture, with findings documented in this repo. My main focus is beginning the CompTIA Security+ SY0-701 course via Professor Messer, starting the TryHackMe Pre-Security path, and building my Anki deck to 30+ cards covering OSI model, CIA triad, and security control types. One thing I'm unsure about: how Sysmon event logs will look once ingested into Splunk — I'll find out by end of week.
+
