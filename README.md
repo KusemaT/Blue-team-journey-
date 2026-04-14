@@ -89,3 +89,26 @@ HTTP requests show the raw communication between browser and server before encry
 
 This week I'm setting up my home lab environment (VirtualBox, Kali Linux, Windows 10 VM) and completing my first live Wireshark capture, with findings documented in this repo. My main focus is beginning the CompTIA Security+ SY0-701 course via Professor Messer, starting the TryHackMe Pre-Security path, and building my Anki deck to 30+ cards covering OSI model, CIA triad, and security control types. One thing I'm unsure about: how Sysmon event logs will look once ingested into Splunk — I'll find out by end of week.
 ---
+## Day 02 — 9 April 2026
+**Commit:** Home lab started: VirtualBox + Kali installed. GitHub repo created. TryHackMe account set up.
+
+### What I did
+- Installed VirtualBox and imported the Kali Linux OVA image
+- Booted Kali for the first time and took a clean snapshot
+- Created this GitHub repo — blue-team-journey — set to public
+- Created TryHackMe account and joined the SOC Level 1 learning path
+
+### Why it matters
+VirtualBox and Kali are the foundation of the home lab. Every attack simulation, 
+tool test, and detection rule validation runs inside VMs — keeping the host machine 
+clean and allowing full resets via snapshots. The GitHub repo is the public portfolio 
+that documents everything built over the next 12 months.
+
+### Tools installed
+- VirtualBox (hypervisor)
+- Kali Linux (attacker/analyst machine)
+
+### Next
+- Windows 10 VM setup
+- Sysmon installation and configuration
+- Splunk Enterprise install and first log ingest
